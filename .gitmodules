@@ -1,0 +1,3 @@
+[submodule "SQLite_interface_release"]
+	path = SQLite_interface_release
+	url = https://github.com/IDS-zhangxr/SQLite_interface_release
